@@ -27,6 +27,4 @@ Outputs:
 - `column_plot.png`
 - `analysis_report.pdf`
 
-Perfect for your data quality checks and your portfolio! 🚀✨
-
 ![img.png](img.png)
